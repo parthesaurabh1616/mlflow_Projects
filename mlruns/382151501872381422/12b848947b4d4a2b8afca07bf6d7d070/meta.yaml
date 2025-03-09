@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/382151501872381422/12b848947b4d4a2b8afca07bf6d7d070/artifacts
+end_time: 1741553320574
+entry_point_name: ''
+experiment_id: '382151501872381422'
+lifecycle_stage: active
+run_id: 12b848947b4d4a2b8afca07bf6d7d070
+run_name: receptive-zebra-644
+run_uuid: 12b848947b4d4a2b8afca07bf6d7d070
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741553314779
+status: 3
+tags: []
+user_id: saura

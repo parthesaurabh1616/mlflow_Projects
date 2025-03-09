@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/333308063145257578/cc0fcbc9478643ebbe7571f838d9be16/artifacts
+end_time: 1741454451511
+entry_point_name: ''
+experiment_id: '333308063145257578'
+lifecycle_stage: active
+run_id: cc0fcbc9478643ebbe7571f838d9be16
+run_name: upset-trout-890
+run_uuid: cc0fcbc9478643ebbe7571f838d9be16
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741454451354
+status: 3
+tags: []
+user_id: saura
